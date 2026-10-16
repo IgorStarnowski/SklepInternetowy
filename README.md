@@ -43,7 +43,7 @@ Projekt korzysta z narzędzia **Maven Wrapper**, co oznacza, że nie musisz mie�
 
 1. Sklonuj repozytorium na swój dysk lokalny:
 
-       git clone [https://github.com/TWOJ-NICK/SklepInternetowy.git](https://github.com/IgorStarnowski/SklepInternetowy.git)
+       git clone [https://github.com/IgorStarnowski/SklepInternetowy.git](https://github.com/IgorStarnowski/SklepInternetowy.git)
 
 2. Przejdź do głównego katalogu projektu (tam, gdzie znajduje się plik `pom.xml`):
 
